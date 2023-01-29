@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNGPrograms.BeforeMethod12"/>
+      <class name="TestNGPrograms.Assert1"/>
+      
+      <class name="TestNGPrograms.BeforeMothod1"/>
+      <class name="TestNGPrograms.BeforeAfterAssertion"/>
+      <class name="TestNGPrograms.Test11"/>
+      <class name="TestNGPrograms.TestNGPro1"/>
+      <class name="TestNGPrograms.DependancyTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
